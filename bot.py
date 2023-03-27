@@ -19,8 +19,8 @@
 """Provide a bot to tests"""
 import base64
 import json
-import os
-import random
+#import os
+#import random
 
 # Provide some public fallbacks so it's easy for contributors to run tests on their local machine
 # These bots are only able to talk in our test chats, so they are quite useless for other
